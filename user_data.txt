@@ -1,0 +1,3 @@
+id:1234 passwd:123456 role:3 name:xmrs sex:男 old_passwd:
+id:4567 passwd:123457 role:2 name:xmrs sex:男 old_passwd:
+id:1231 passwd:123456 role:1 name:xmrs sex:男 old_passwd:
